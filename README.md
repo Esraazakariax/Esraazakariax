@@ -1,25 +1,25 @@
 <div align="center">
 
-  <!-- Social Links -->
+  <!-- Social Links with your custom icons -->
   <a href="https://www.instagram.com/esraa_zakariaxx/">
-    <img align="right" src="YOUR_INSTAGRAM_ICON_LINK" width="30" alt="Instagram Link" />
+    <img align="right" src="/images/instagram.png" width="30" alt="Instagram Link" />
   </a>
   <a href="https://www.linkedin.com/in/esraa-zakariaa/">
-    <img align="right" src="YOUR_LINKEDIN_ICON_LINK" width="30" alt="LinkedIn Link" />
+    <img align="right" src="/images/linkedin.png" width="30" alt="LinkedIn Link" />
   </a>
   <a href="https://x.com/Esraa_zakariaxx">
-    <img align="right" src="YOUR_TWITTER_ICON_LINK" width="30" alt="Twitter Link" />
+    <img align="right" src="/images/twitter.png" width="30" alt="Twitter Link" />
   </a>
   <a href="https://esraa-zakaria.vercel.app/">
-    <img align="right" src="YOUR_PORTFOLIO_ICON_LINK" width="30" alt="Portfolio Website Link" />
+    <img align="right" src="/images/portfolio.png" width="30" alt="Portfolio Website Link" />
   </a>
-
 </div>
 
 <div align="center">
   <br><br>
+  <!-- Replace bg.png with your own background image -->
   <a href="https://esraa-zakaria.vercel.app/">
-    <img align="center" src="YOUR_BACKGROUND_IMAGE_LINK" width="100%" alt="My logo" />
+    <img align="center" src="/images/bg.png" width="100%" alt="My logo" />
   </a>
 
   <h6>Frontend Developer | UI/UX Designer | Mobile App Developer</h6>
@@ -34,7 +34,8 @@
 </div>
 
 <div align="center">
-  <img align="center" height="150" src="YOUR_SNAKE_ANIMATION_LINK" />
+  <!-- Replace snake.svg with your own fun animation or icon -->
+  <img align="center" height="150" src="/images/snake.svg" />
   <br><br><br><br>
 </div>
 
@@ -50,6 +51,7 @@
 </div>
 
 <div align="center">
-  <img align="center" src="YOUR_FUN_GIF_LINK" height="400" alt="fun gif" />
+  <!-- Replace skeleton.gif with your own gif or illustration -->
+  <img align="center" src="/images/skeleton.gif" height="400" alt="fun gif" />
   <br><br><br>
 </div>
