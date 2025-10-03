@@ -34,7 +34,7 @@
 
   <h6>Frontend Developer | UI/UX Designer | Mobile App Developer</h6>
 
-  <h1 align="center">✨ Esraa Zakaria ✨<br><br></h1>
+  <h1 align="center">𝑬𝒔𝒓𝒂𝒂 𝒁𝒂𝒌𝒂𝒓𝒊𝒂<br><br></h1>
   <br><br>
 </div>
 
@@ -50,7 +50,7 @@
 <!-- About Me -->
 <div align="center">
   <h6>About Me</h6>
-  <h1 align="center">I believe great design isn’t just about looks—it’s about how it makes people feel.💎</h1>  
+  <h1 align="center">I believe great design isn’t just about looks—it’s about how it makes people feel.💎</h1><br>  
   <p>
     I’m <b>Esraa Zakaria</b>, a frontend developer with two years of experience, crafting digital experiences that are both beautiful and intuitive...  
   </p>
