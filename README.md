@@ -21,9 +21,13 @@
 <div align="center">
   <br><br>
   <!-- Logo or Banner -->
+  <div align="center">
+  <br><br>
   <a href="https://esraa-zakaria.vercel.app/">
-    <img align="center" src="https://raw.githubusercontent.com/Esraazakariax/Esraa-Portfolio/master/images/img/EsraaZakarialinkedincover1.png" width="100%" alt="Esraa Zakaria | Frontend Developer" />
+    <img align="center" src="https://raw.githubusercontent.com/Esraazakariax/Esraa-Portfolio/refs/heads/main/images/img/Esraa%20Zakaria%20linkedin%20cover1.png?token=GHSAT0AAAAAADMFWKWFR3O4KRRCIL4QM57S2G7X2IQ" width="100%" alt="Esraa Zakaria | Frontend Developer" />
   </a>
+</div>
+
 
   <h6>Frontend Developer | UI/UX Designer | Mobile App Developer</h6>
 
