@@ -1,25 +1,28 @@
 <div align="center">
 
-  <!-- Social Links with your custom icons -->
+  <!-- Social Links -->
+  <a href="https://www.facebook.com/">
+    <img align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20322.png" width="30" alt="Facebook Link" />
+  </a>
   <a href="https://www.instagram.com/esraa_zakariaxx/">
-    <img align="right" src="/images/instagram.png" width="30" alt="Instagram Link" />
+    <img align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20323.png" width="30" alt="Instagram Link" />
   </a>
   <a href="https://www.linkedin.com/in/esraa-zakariaa/">
-    <img align="right" src="/images/linkedin.png" width="30" alt="LinkedIn Link" />
+    <img align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20324.png" width="30" alt="LinkedIn Link" />
   </a>
   <a href="https://x.com/Esraa_zakariaxx">
-    <img align="right" src="/images/twitter.png" width="30" alt="Twitter Link" />
+    <img align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/twitter.png" width="30" alt="Twitter Link" />
   </a>
   <a href="https://esraa-zakaria.vercel.app/">
-    <img align="right" src="/images/portfolio.png" width="30" alt="Portfolio Website Link" />
+    <img align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20325.png" width="30" alt="Portfolio Website Link" />
   </a>
+
 </div>
 
 <div align="center">
   <br><br>
-  <!-- Replace bg.png with your own background image -->
   <a href="https://esraa-zakaria.vercel.app/">
-    <img align="center" src="/images/bg.png" width="100%" alt="My logo" />
+    <img align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/bg.png" width="100%" alt="My logo" />
   </a>
 
   <h6>Frontend Developer | UI/UX Designer | Mobile App Developer</h6>
@@ -34,8 +37,7 @@
 </div>
 
 <div align="center">
-  <!-- Replace snake.svg with your own fun animation or icon -->
-  <img align="center" height="150" src="/images/snake.svg" />
+  <img align="center" height="150" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/18e35e99a01643f45bd5df10d193649806a24abc/img/snake.svg" />
   <br><br><br><br>
 </div>
 
@@ -51,7 +53,6 @@
 </div>
 
 <div align="center">
-  <!-- Replace skeleton.gif with your own gif or illustration -->
-  <img align="center" src="/images/skeleton.gif" height="400" alt="fun gif" />
+  <img align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/skeleton.gif" height="400" alt="fun gif" />
   <br><br><br>
 </div>
