@@ -22,7 +22,7 @@
   <br><br>
   <!-- Logo or Banner -->
   <a href="https://esraa-zakaria.vercel.app/">
-    <img align="center" src="https://raw.githubusercontent.com/Esraazakariax/Esraa-Portfolio/main/images/img/EsraaZakarialinkedincover1.png" width="100%" alt="Esraa Zakaria | Frontend Developer" />
+    <img align="center" src="https://raw.githubusercontent.com/Esraazakariax/Esraa-Portfolio/images/img/EsraaZakarialinkedincover1.png" width="100%" alt="Esraa Zakaria | Frontend Developer" />
   </a>
 
   <h6>Frontend Developer | UI/UX Designer | Mobile App Developer</h6>
