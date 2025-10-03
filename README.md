@@ -1,18 +1,58 @@
-<h1 align="center">Hi 👋, I'm Esraa Zakaria</h1>
-<h3 align="center">I believe great design isn’t just about looks—it’s about how it makes people feel. I’m Esraa Zakaria, a frontend developer with two years of experience.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esraazakariax" alt="esraazakariax" /></a> </p>
+  <!-- Social Links -->
+  <a href="https://www.facebook.com/">
+    <img align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20322.png" width="30" alt="Facebook Link" />
+  </a>
+  <a href="https://www.instagram.com/esraa_zakariaxx/">
+    <img align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20323.png" width="30" alt="Instagram Link" />
+  </a>
+  <a href="https://www.linkedin.com/in/esraa-zakariaa/">
+    <img align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20324.png" width="30" alt="LinkedIn Link" />
+  </a>
+  <a href="https://x.com/Esraa_zakariaxx">
+    <img align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/twitter.png" width="30" alt="Twitter Link" />
+  </a>
+  <a href="https://esraa-zakaria.vercel.app/">
+    <img align="right" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/social/Group%20325.png" width="30" alt="Portfolio Website Link" />
+  </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/esraa_zakariaxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esraa_zakariaxx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/esraa-zakariaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraa-zakariaa" height="30" width="40" /></a>
-<a href="https://instagram.com/esraa_zakariaxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esraa_zakariaxx" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+  <br><br>
+  <a href="https://esraa-zakaria.vercel.app/">
+    <img align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/bg.png" width="100%" alt="My logo" />
+  </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esraazakariax&show_icons=true&locale=en&layout=compact" alt="esraazakariax" /></p>
+  <h6>Frontend Developer | UI/UX Designer | Mobile App Developer</h6>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esraazakariax&show_icons=true&locale=en" alt="esraazakariax" /></p>
+  <h1 align="center">Esraa Zakaria<br><br></h1>
+  <br><br>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xEsraax&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=ffffff0d&border_radius=15&icon_color=702EE6&text_color=fffffff5&title_color=702EE6" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xEsraax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&&hide_border=true&bg_color=ffffff0d&border_radius=15&icon_color=702EE6&text_color=fffffff5&title_color=702EE6&custom_title=Languages" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img align="center" height="150" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/18e35e99a01643f45bd5df10d193649806a24abc/img/snake.svg" />
+  <br><br><br><br>
+</div>
+
+<div align="center">
+  <h6>About Me</h6>
+  <h1 align="center">I believe design is about experience ✨<br><br></h1>
+  <p>
+    I believe great design isn’t just about looks—it’s about how it makes people feel.  
+    I’m <b>Esraa Zakaria</b>, a frontend developer with two years of experience, UI/UX designer,  
+    and mobile app developer passionate about building user-friendly and creative digital experiences.  
+  </p>
+  <br>
+</div>
+
+<div align="center">
+  <img align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/skeleton.gif" height="400" alt="fun gif" />
+  <br><br><br>
+</div>
