@@ -49,10 +49,9 @@
 
 <!-- About Me -->
 <div align="center">
+ <h1>
   <h6>About Me</h6>
-  <h1 align="center">I believe great design isn’t just about looks—it’s about how it makes people feel.💎</h1> 
-  <p>
-    I’m <b>Esraa Zakaria</b>, a frontend developer with two years of experience, crafting digital experiences that are both beautiful and intuitive...  
-  </p>
-  <br>
+  <h1 align="center">Self investment Is the key for me🥰<br><br></h1>  
+    <P>As a 19 yo dreamer i don't just wish to be greater someday but i invest in my career, My Education and My everyday life for the older me to live in peace in a place he loves, with people he wished for and a nicer future. (stop crying bro i am kidding lol)</P>
+ <br>
 </div>
