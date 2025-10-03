@@ -40,11 +40,6 @@
 </div>
 
 <div align="center">
-  <img align="center" height="150" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/18e35e99a01643f45bd5df10d193649806a24abc/img/snake.svg" />
-  <br><br><br><br>
-</div>
-
-<div align="center">
   <h6>About Me</h6>
   <h1 align="center">I believe design is about experience ✨<br><br></h1>
   <p>
