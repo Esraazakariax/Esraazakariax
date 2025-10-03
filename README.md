@@ -22,7 +22,7 @@
   <br><br>
   <!-- Logo or Banner -->
   <a href="https://esraa-zakaria.vercel.app/">
-    <img align="center" src="Esraa Zakaria linkedin cover1.png" width="100%" alt="Portfolio banner" />
+    <img align="center" src="./images/images/Esraa-Zakaria-5.png" width="100%" alt="Esraa Zakaria"/>
   </a>
 
   <h6>Frontend Developer | UI/UX Designer | Mobile App Developer</h6>
@@ -37,11 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esraazakariax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&bg_color=ffffff0d&border_radius=15&icon_color=702EE6&text_color=fffffff5&title_color=702EE6&custom_title=Languages" height="150" alt="languages graph" />
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img align="center" height="150" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/18e35e99a01643f45bd5df10d193649806a24abc/img/snake.svg" alt="GitHub Snake Animation" />
-  <br><br><br>
-</div>
+
 
 <!-- About Me -->
 <div align="center">
