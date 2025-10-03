@@ -49,10 +49,9 @@
 <!-- About Me -->
 <div align="center">
   <h6>About Me</h6>
-  <h1 align="center">Design is how it feels, not just how it looks 💜</h1>  
+  <h1 align="center">I believe great design isn’t just about looks—it’s about how it makes people feel.</h1>  
   <p>
-    I’m <b>Esraa Zakaria</b>, a frontend developer with two years of experience in building responsive websites, designing UI/UX, and developing mobile apps.  
-    I believe great design isn’t just about looks—it’s about how it makes people feel.  
+    I’m <b>Esraa Zakaria</b>, a frontend developer with two years of freelance experience, crafting digital experiences that are both beautiful and intuitive...  
   </p>
   <br>
 </div>
