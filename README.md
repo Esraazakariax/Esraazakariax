@@ -52,7 +52,7 @@
   <h6>About Me</h6>
   <h1 align="center">I believe great design isn’t just about looks—it’s about how it makes people feel.💎</h1>  
   <p>
-    I’m <b>Esraa Zakaria</b>, a frontend developer with two years of freelance experience, crafting digital experiences that are both beautiful and intuitive...  
+    I’m <b>Esraa Zakaria</b>, a frontend developer with two years of experience, crafting digital experiences that are both beautiful and intuitive...  
   </p>
   <br>
 </div>
