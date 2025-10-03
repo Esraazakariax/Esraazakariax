@@ -22,7 +22,7 @@
   <br><br>
   <!-- Logo or Banner -->
   <a href="https://esraa-zakaria.vercel.app/">
-    <img align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/bg.png" width="100%" alt="Portfolio banner" />
+    <img align="center" src="Esraa Zakaria linkedin cover1.png" width="100%" alt="Portfolio banner" />
   </a>
 
   <h6>Frontend Developer | UI/UX Designer | Mobile App Developer</h6>
