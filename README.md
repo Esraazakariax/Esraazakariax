@@ -34,7 +34,7 @@
 
   <h6>Frontend Developer | UI/UX Designer | Mobile App Developer</h6>
 
-  <h1 align="center" style="font-size: 120px;">𝑬𝒔𝒓𝒂𝒂 𝒁𝒂𝒌𝒂𝒓𝒊𝒂<br><br></h1>
+  <h1 align="center">𝑬𝒔𝒓𝒂𝒂 𝒁𝒂𝒌𝒂𝒓𝒊𝒂<br><br></h1>
   <br><br>
 </div>
 
