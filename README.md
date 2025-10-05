@@ -27,7 +27,7 @@
   <div align="center">
   <br><br>
   <a href="https://esraa-zakaria.vercel.app/">
-    <img align="center" src="https://raw.githubusercontent.com/Esraazakariax/Esraa-Portfolio.github.io/heads/main/images/githubcover2.png" width="100%" alt="Esraa Zakaria | Frontend Developer" />
+    <img align="center" src="https://raw.githubusercontent.com/Esraazakariax/Esraa-Portfolio/heads/main/images/githubcover2.png" width="100%" alt="Esraa Zakaria | Frontend Developer" />
   </a>
 </div>
 
